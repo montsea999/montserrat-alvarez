@@ -13,38 +13,39 @@
 ### but it lasts a second ... and immediately I start to think about the next thing that I am going to see...... Right now, my training in the sector is as follows:
 
 ## `Formación en Desarrollo `
-**###`Proyecto desArrolladoras Samsung : `**
+
+### `Proyecto desArrolladoras Samsung : 
 Cursadas y superadas las tres fases eliminatorias, del del programa al que entramos 1000 mujeres de toda España, y que superamos 40 de nosotras finalmente, su 3ª y última fase eliminatoria: 
-•	Desarrollo Web ( HTML,  CSS,  Javascript )- Fase 1
-•	Desarrollo Front-End (HTML5,  CSS3,  Javascript ES6)- Fase 2
-•	Desarrollo Full Stack, y que superamos 40 de nosotras finalmente. (Angular8,  node.js,  APIs de Html5, APIRest con Express,  mongoDB, Typescript, Json, XML)- Fase 3
+-	Desarrollo Web ( HTML,  CSS,  Javascript )- Fase 1
+-	Desarrollo Front-End (HTML5,  CSS3,  Javascript ES6)- Fase 2
+-	Desarrollo Full Stack, y que superamos 40 de nosotras finalmente. (Angular8,  node.js,  APIs de Html5, APIRest con Express,  mongoDB, Typescript, Json, XML)- Fase 3
 Fase 4- (renunciado a la cuarta fase (Inteligencia Artificial) por imposibilidad de conciliación ni opción en remoto, a pesar de que las 40 finalistas fuésemos de múltiples puntos de España).
 
-***Universidad Politécnica de Madrid- Samsung : ***
-•	curso mySQL (2020/S01/3753)
-•	curso Desarrollo Full-Stack (2020/S03/3828. Angular8, node.js, Javascript ES6)
+### Universidad Politécnica de Madrid- Samsung : 
+-	curso mySQL (2020/S01/3753)
+-   curso Desarrollo Full-Stack (2020/S03/3828. Angular8, node.js, Javascript ES6)
 
-***Barcelona Activa : ***
-•	curso PHP (20200513-183035) 
-•	curso GIT y github (20200513-183237) 
-•	METODOLOGIAS AGILE (20200612-193613) 
-•	SCRUM (20200612-192255, 20200612-192639). 
+### Barcelona Activa : 
+-	curso PHP (20200513-183035) 
+-	curso GIT y github (20200513-183237) 
+-	METODOLOGIAS AGILE (20200612-193613) 
+-	SCRUM (20200612-192255, 20200612-192639). 
 
-***Formación on-line- UDEMY/ W3SCHOOLS/ OPENWEBINARS : ***
-•	curso completo de React (React core, React Router V5, intro a Testing con Test Unitarios, Redux, JSX, SASS ), 
-•	curso de buenas prácticas Angular 
-•	curso de Bootstrap
-•	curso de jQuery
+### Formación on-line- UDEMY/ W3SCHOOLS/ OPENWEBINARS : 
+-	curso completo de React (React core, React Router V5, intro a Testing con Test Unitarios, Redux, JSX, SASS ), 
+-	curso de buenas prácticas Angular 
+-	curso de Bootstrap
+-	curso de jQuery
 
 ## `Formación en Diseño web`
-Barcelona Activa: 
+### Barcelona Activa: 
 WordPress (Essencial: 20200513-183208, 20200612-190756, gestión avanzada: 20200612-191956, instalación: 20200612-193030, seguridad: 20200612-193337, 20200612-193449, Woocommerce: 20200612-192813, 20200612-192914), auditoría SEO (20200612-193143, 20200612-193234), maquetación web (20200513-183259), Elementos avanzados de diseño web (20200513-183332), Generadores de sitios estáticos (20200513-183402), Introducción a Google Analytics (20200612-191647), herramientas de trabajo en remoto (Teams y Slack).
 
 ## `Idiomas `
 Catalán: Alto ( certificación NIVEL C ).
 Inglés: Medio-Alto, reglados 3 años en academias Wall Street Institute ( certificación profesional TOEIC 6.8 ), writing, reading y listening alto, speaking me cuesta más, pero acostumbrada a utilizar inglés en los proyectos y desarrollos.
 
-Experiencia laboral 
+## Experiencia laboral 
 2016- HOY (actualmente en ERTE): Grupo BC de asesoría Hipotecaria
 
 •	Departamento de postfirma de operaciones (revisión y cancelación económica y/o registral de cargas previas, revisión de copias simples para agilizar subsanaciones si precisan, realización de provisiones de fondos (no residentes, plusvalías, modelo 600, etc), gestión de apertura de saldos, transferencias, etc.
