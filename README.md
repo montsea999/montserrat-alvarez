@@ -13,7 +13,7 @@
 ### but it lasts a second ... and immediately I start to think about the next thing that I am going to see...... Right now, my training in the sector is as follows:
 
 ## `Formación en Desarrollo `
-**###Proyecto desArrolladoras Samsung : `**
+**###`Proyecto desArrolladoras Samsung : `**
 Cursadas y superadas las tres fases eliminatorias, del del programa al que entramos 1000 mujeres de toda España, y que superamos 40 de nosotras finalmente, su 3ª y última fase eliminatoria: 
 •	Desarrollo Web ( HTML,  CSS,  Javascript )- Fase 1
 •	Desarrollo Front-End (HTML5,  CSS3,  Javascript ES6)- Fase 2
