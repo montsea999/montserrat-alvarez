@@ -45,54 +45,18 @@ WordPress (Essencial: 20200513-183208, 20200612-190756, gestión avanzada: 20200
 Catalán: High (level C certification).
 English: middle-High, 3 years at Wall Street Institute academies (TOEIC professional certification 6.8), writing, reading & listening high, speaking costs me more, but I'm used to using English in projects and developments.
 
-## Experiencia laboral 
-2016- HOY (actualmente en ERTE): Grupo BC de asesoría Hipotecaria
-
--	Departamento de postfirma de operaciones (revisión y cancelación económica y/o registral de cargas previas, revisión de copias simples para agilizar subsanaciones si precisan, realización de provisiones de fondos (no residentes, plusvalías, modelo 600, etc), gestión de apertura de saldos, transferencias, etc.
--	Departamento de facturación (revisión de impuestos, suplidos y escrituras, y facturación final a cliente). 
-
-2006- 2016 : CatalunyaCaixa Serveis- MRD Registro y Documentación, oficina 0594 de CatalunyaCaixa.
- 
--	Departamento de Tramitación de Escrituras ( revisión de solicitudes, suplidos y escrituras, facturación, transferencias, custodia de títulos...). 
--	Departamento de Back Office (Domiciliación bancaria de recibos, atención telefónica, valija interna...) 
--	Departamento Jurídico ( subsanación de escrituras con defectos, y seguimiento de las mismas ).
--	Departamento de Prefirma de Operaciones ( asesoramiento a directores de oficina para transaccional, solicitud de documentación necesaria a entidades bancarias y preparación de la firma).
-Años anteriores: En negocio  familiar, gestiones bancarias, atención Proveedores, facturación;  Arlex SL: Realización de presupuestos, compras a fábrica, elaboración y control de rutas de todos los repartidores. Grupo Frinu: Empresa inmobiliaria. Redacción de contratos de arras, solicitud y preparación de documentación para formalización de préstamos con cliente y director de oficina bancaria y asistencia en la firma. Y durante mis años de estudiante Carrefour: Trabajando como cajera y Diversas ETT’s: realizando trabajos de azafata en Centros comerciales. 
-
 ## `Hobbies `
 I am passionate about sports and nature, and if the two things can be together, better: running, skating, climbing, surfing, practicing yoga and anything else that may be a challenge for me (I even was a volunteer in a rescue exercise at sea, held by a cable from a helicopter) ... 
 ... And of course, training has also become a hobby, because I enjoy learning and I am always looking for new challenges.
 
 I am currently in an ERTE situation, and I continue to train in both Front End Development and Web Design
 
-## Do you want us to collaborate on a project? 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
--In mail: **montsea999@gmail.com**
--On github: ### (https://github.com/montsea999.github.io)
--On github: (https://github.com/montsea999)
-
-
-
-
-
+## Do you want us to collaborate on a project? 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+- In mail: **montsea999@gmail.com**
+- On github: (https://github.com/montsea999.github.io)
+- On github: (https://github.com/montsea999)
 
 ###  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![gif nunca te rindas](https://github.com/montsea999/inspirations/blob/master/assets/caracol.gif) 
 
