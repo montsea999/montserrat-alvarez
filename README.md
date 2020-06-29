@@ -66,9 +66,9 @@ I am passionate about sports and nature, and if the two things can be together, 
 I am currently in an ERTE situation, and I continue to train in both Front End Development and Web Design
 
 ## Do you want us to collaborate on a project? 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
--In mail: ### `montsea999@gmail.com`
--On github: ### `https://github.com/montsea999.github.io`
--On github: ### `https://github.com/montsea999`
+-In mail: **montsea999@gmail.com**
+-On github: ### (https://github.com/montsea999.github.io)
+-On github: (https://github.com/montsea999)
 
 
 
