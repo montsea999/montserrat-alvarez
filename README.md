@@ -30,7 +30,7 @@ I completed and passed the three elimination phases, of the program that started
 - Web development (HTML, CSS, Javascript) - Phase 1
 - Front-end development (HTML5, CSS3, Javascript ES6) - Phase 2
 - Full development of Stack, surpassed by 40 women (Angular8, node.js, API Html5, APIRest with Express, mongoDB, TypeScript, Json, XML)- Phase 3
-- The 4ª phase I finally didn´t carry out- (I gave up doing the fourth phase (Artificial Intelligence) due to the impossibility of remote option, despite the fact that the 40 finalists were from multiple points in Spain).
+- The 4ª phase I finally didn´t carry out- (I gave up doing the fourth phase (Artificial Intelligence) due to the impossibility of remote option, despite the fact that we, the 40 finalists, were from multiple points in Spain).
 
 ### Polytechnic University of Madrid- Samsung : 
 - course mySQL (2020/S01/3753)
