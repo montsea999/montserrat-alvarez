@@ -18,7 +18,7 @@
 ![gif dónde me he metido](https://github.com/montsea999/inspirations/blob/master/assets/gifAvatarYes.gif) 
 
 
-🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀
+😂        😂        😂        😂        😂
 
 
 ### but it lasts a second ... and immediately I start to think about the next thing that I am going to see...... Right now, my training in the sector is as follows:
