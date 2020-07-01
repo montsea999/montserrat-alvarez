@@ -23,13 +23,13 @@
 
 ### but it lasts a second ... and immediately I start to think about the next thing that I am going to see...... Right now, my training in the sector is as follows:
 
-## `Web Development training`
+## `Web Development training`📚
 
 ### Samsung Developers Spain 2019 : 
 I completed and passed the three elimination phases, of the program that started with 1000 women from all over Spain, and that finally ended with 40 of us, its third and last elimination phase:
 - Web development (HTML, CSS, Javascript) - Phase 1
 - Front-end development (HTML5, CSS3, Javascript ES6) - Phase 2
-- Full development of Stack, surpassed by 40 women (Angular8, node.js, API Html5, APIRest with Express, mongoDB, TypeScript, Json, XML)- Phase 3
+- course Full Stack development, surpassed by 40 women (Angular8, node.js, API Html5, APIRest with Express, mongoDB, TypeScript, Json, XML)- Phase 3
 - The 4ª phase I finally didn´t carry out- (I gave up doing the fourth phase (Artificial Intelligence) due to the impossibility of remote option, despite the fact that we, the 40 finalists, were from multiple points in Spain).
 
 ### Polytechnic University of Madrid- Samsung : 
@@ -52,7 +52,7 @@ I completed and passed the three elimination phases, of the program that started
 ### Cybernarium of Barcelona Active : 
 WordPress (Essencial: 20200513-183208, 20200612-190756, gestión advanced: 20200612-191956, instalación: 20200612-193030, seguridad: 20200612-193337, 20200612-193449, Woocommerce: 20200612-192813, 20200612-192914), SEO audit (20200612-193143, 20200612-193234), Web layout (20200513-183259), Advanced elements of web design (20200513-183332), Static site generators (20200513-183402), Introduction to Google Analytics (20200612-191647), tools of remote work (Teams y Slack).
 
-## `Languages `
+## `Languages `🎤
 - Catalán: High (level C certification).
 - English: middle-High, 3 years at Wall Street Institute academies (TOEIC professional certification 6.8), writing, reading & listening high, speaking costs me more, but I'm used to using English in projects and developments.
 
