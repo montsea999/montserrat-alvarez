@@ -4,9 +4,12 @@
 
 ![gif avatar saludando](https://github.com/montsea999/inspirations/blob/master/assets/gifavatar.gif) 
 
-### After studying geological engineering for a year, validating and going on to study Geology, and ending up working in the banking sector for fourteen years, I decided in 2019 to take a turn to train in Web Development, because I am passionate about it ❤️❤️ and I´m doing my best to earn a living with it if it is possible 🍀🤞🚀 
+### After studying geological engineering for a year, validating and continuing to study Geology, and ending up working in the banking sector for fourteen years, I decided in 2019 to make the decision to train more seriously in Web Development, because I am passionate about ❤️❤️ and am excited about the idea of earning a living working on what I'm passionate about, if possible 🍀🤞🚀
 
-### I must say that I thought it would be easier, and that as I pulled the thread, there are more and more possible routes, which I cannot cover ... So I have come to think at certain times ... what am I doing ??🏄‍♀‍ hehe
+### I must say that I thought it would be easier, and that by pulling the thread, there are more and more possible routes, which I cannot cover ... So I have come to think at certain times ... What am I doing? ?, hehe🏄‍♀‍
+
+
+###  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀  🍀 
 
 ![gif dónde me he metido](https://github.com/montsea999/inspirations/blob/master/assets/gifAvatarYes.gif) 
 
