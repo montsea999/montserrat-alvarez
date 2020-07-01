@@ -4,7 +4,7 @@
 
 ![gif avatar saludando](https://github.com/montsea999/inspirations/blob/master/assets/gifavatar.gif) 
 
-### After studying geological engineering for a year, validating and continuing to study Geology, and ending up working in the banking sector for fourteen years, I decided in 2019 to make the decision to train more seriously in Web Development, because I am passionate about ❤️❤️ and am excited about the idea of earning a living working on what I'm passionate about, if possible 🍀🤞🙂 
+### After starting to study geological engineering, validate the subjects passed and transfer my expedient and continue my studies in Geology, and end up working in in the banking sector for fourteen years, I decided in 2019 to train more seriously in Web Development, because I am passionate about ❤️ ❤️ , and I'm excited about the idea of earning a living working on what I'm passionate about, if possible. 🍀🤞🙂 
 
 
 
@@ -18,7 +18,7 @@
 ![gif dónde me he metido](https://github.com/montsea999/inspirations/blob/master/assets/gifAvatarYes.gif) 
 
 
-😂        😂        😂        😂        😂
+😂  😂 😂 😂  😂 😂 😂  😂 😂 😂  😂 😂 😂
 
 
 ### but it lasts a second ... and immediately I start to think about the next thing that I am going to see...... Right now, my training in the sector is as follows:
