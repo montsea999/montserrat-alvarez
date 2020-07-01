@@ -4,15 +4,20 @@
 
 ![gif avatar saludando](https://github.com/montsea999/inspirations/blob/master/assets/gifavatar.gif) 
 
-### After studying geological engineering for a year, validating and continuing to study Geology, and ending up working in the banking sector for fourteen years, I decided in 2019 to make the decision to train more seriously in Web Development, because I am passionate about ❤️❤️ and am excited about the idea of earning a living working on what I'm passionate about, if possible 🍀🤞🚀
-
-### I must say that I thought it would be easier, and that by pulling the thread, there are more and more possible routes, which I cannot cover ... So I have come to think at certain times ... What am I doing? ?, hehe🏄‍♀‍
+### After studying geological engineering for a year, validating and continuing to study Geology, and ending up working in the banking sector for fourteen years, I decided in 2019 to make the decision to train more seriously in Web Development, because I am passionate about ❤️❤️ and am excited about the idea of earning a living working on what I'm passionate about, if possible 🚀🤸‍♀‍  
 
 
-###  🤸‍♀‍ 🤸‍♀‍ 🤸‍♀‍ 🤸‍♀‍ 🤸‍♀‍ 🤸‍♀‍
+🍀🤞🙂   🍀🤞🙂   🍀🤞🙂   🍀🤞🙂   🍀🤞🙂
+
+
+### I must say that I thought it would be easier, and that by pulling the thread, there are more and more possible routes, which I cannot cover ... So I have come to think at certain times ... What am I doing? ?, hehe‍
 
 
 ![gif dónde me he metido](https://github.com/montsea999/inspirations/blob/master/assets/gifAvatarYes.gif) 
+
+
+🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀   🏄‍♀
+
 
 ### but it lasts a second ... and immediately I start to think about the next thing that I am going to see...... Right now, my training in the sector is as follows:
 
@@ -49,12 +54,12 @@ WordPress (Essencial: 20200513-183208, 20200612-190756, gestión advanced: 20200
 - Catalán: High (level C certification).
 - English: middle-High, 3 years at Wall Street Institute academies (TOEIC professional certification 6.8), writing, reading & listening high, speaking costs me more, but I'm used to using English in projects and developments.
 
-## `Hobbies `🤿🏄‍♀‍🧗🏼‍♀‍🎷💃 🧘‍♀‍🏀 🤸‍♀‍
+## `Hobbies `🤿🏄‍♀‍🧗🏼‍♀‍🎷💃 🧘‍♀‍🏀 🤸‍♀‍🤿🏄‍♀‍🧗🏼‍♀‍🎷💃 🧘‍♀‍
 I am passionate about sports and nature, and if the two things can be together, better: running, skating, climbing, surfing, practicing yoga and anything else that may be a challenge for me (I even was a volunteer in a rescue exercise at sea, held by a cable from a helicopter)... And of course, train in different technologies has also become a hobby, because I enjoy learning and I am always looking for new challenges.
 
 I am currently in an ERTE situation, and I continue to train in both Front End Development and Web Design
 
-## Do you want us to collaborate on a project or can I help you with a challenge?? Give me a touch🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+## Do you want us to collaborate on a project or can I help you with a challenge?? Give me a touch!!! 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 - In mail: **montsea999@gmail.com**
 - On github: (https://github.com/montsea999.github.io)
 - On github: (https://github.com/montsea999)
