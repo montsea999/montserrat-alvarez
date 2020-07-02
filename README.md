@@ -6,10 +6,11 @@
 
 ### After starting to study geological engineering, validate the subjects passed and transfer my expedient and continue my studies in Geology, and end up working in in the banking sector for fourteen years, I decided in 2019 to train more seriously in Web Development, because I am passionate about ❤️ ❤️ , and I'm excited about the idea of earning a living working on what I'm passionate about, if possible. 🍀🤞🙂 
 
-I am currently in an ERTE situation, and I continue training in both front end development and web design.
 
 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 
 
+
+I am currently in an ERTE situation, and I continue training in both front end development and web design.
 
 
 ### I must say that I thought it would be easier, and that by pulling the thread, there are more and more possible routes, which I cannot cover ... So I have come to think at certain times ... What am I doing? ?, hehe‍
@@ -68,7 +69,7 @@ I am passionate about sports and nature, and if the two things can be together, 
 
 
 
-###  🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 
+###  🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 
 
 
 ![gif nunca te rindas](https://github.com/montsea999/inspirations/blob/master/assets/caracol.gif) 
