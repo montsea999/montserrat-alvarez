@@ -61,6 +61,8 @@ WordPress (Essencial: 20200513-183208, 20200612-190756, gestión advanced: 20200
 I am passionate about sports and nature, and if the two things can be together, better: running, skating, climbing, surfing, practicing yoga and anything else that may be a challenge for me (I even was a volunteer in a rescue exercise at sea, held by a cable from a helicopter)... And of course, train in different technologies has also become a hobby, because I enjoy learning and I am always looking for new challenges.
 
 
+###  🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 
+
 
 ### `Do you want us to collaborate on a project or can I help you with a challenge?? Give me a touch!` 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
@@ -68,14 +70,11 @@ I am passionate about sports and nature, and if the two things can be together, 
 - On github: (https://github.com/montsea999)
 
 
-
-###  🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 
-
-
-![gif nunca te rindas](https://github.com/montsea999/inspirations/blob/master/assets/caracol.gif) 
-
-
 ### ` Hasta pronto! 🙂🙂🙂 `
+
+
+
+
 
 
 
