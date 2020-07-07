@@ -57,7 +57,7 @@ WordPress (Essencial: 20200513-183208, 20200612-190756, gestión advanced: 20200
 - Catalán: High (level C certification).
 - English: middle-High, 3 years at Wall Street Institute academies (TOEIC professional certification 6.8), writing, reading & listening high, speaking costs me more, but I'm used to using English in projects and developments.
 
-## `Hobbies `🤿📚🏄‍♀‍🧗🏼‍♀‍🎷💃 🧘‍♀‍🏀 🤸‍♀‍🤿💻🏄‍♀‍🧗🏼‍📱 
+## `Hobbies `🤿📚🏄‍♀‍🧗🏼‍♀‍🎷💃 🧘‍♀‍🏀 🤸‍♀‍💻       
 I am passionate about sports and nature, and if the two things can be together, better: running, skating, climbing, surfing, practicing yoga and anything else that may be a challenge for me (I even was a volunteer in a rescue exercise at sea, held by a cable from a helicopter)... And of course, train in different technologies has also become a hobby, because I enjoy learning and I am always looking for new challenges.
 
 
