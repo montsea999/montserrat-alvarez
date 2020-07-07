@@ -29,25 +29,25 @@ I am currently in an ERTE situation, and I continue training in both front end d
 ### Samsung Developers Spain 2019 : 
 I completed and passed the three elimination phases, of the program that started with 1000 women from all over Spain, and that finally ended with 40 of us, its third and last elimination phase:
 - Web development (HTML, CSS, Javascript) - Phase 1
-- Front-end development (HTML5, CSS3, Javascript ES6) - Phase 2
-- Full Stack development, surpassed by 40 women (***Angular8***, node.js, API Html5, APIRest with Express, mongoDB, TypeScript, Json, XML)- Phase 3
+- **Front-end** development (HTML5, CSS3, Javascript ES6) - Phase 2
+- **Full Stack** development, surpassed by 40 women (**Angular8**, node.js, API Html5, **APIRest** with Express, **mongoDB**, **TypeScript**, Json, XML)- Phase 3
 - The 4ª phase I finally didn´t carry out- (I gave up doing the fourth phase (Artificial Intelligence) due to the impossibility of remote option, despite the fact that we, the 40 finalists, were from multiple points in Spain).
 
 ### Polytechnic University of Madrid- Samsung : 
-- course mySQL (2020/S01/3753)
-- course Full Stack development (2020/S03/3828) - Angular8, node.js, Javascript ES6
+- course **mySQL** (2020/S01/3753)
+- course **Full Stack** development (2020/S03/3828) - Angular8, node.js, **Javascript ES6**
 
 ### Barcelona Activa : 
-- course PHP (20200513-183035) 
-- course GIT & Github (20200513-183237) 
-- METHODOLOGIES AGILE (20200612-193613) 
-- SCRUM (20200612-192255, 20200612-192639) 
+- course **PHP** (20200513-183035) 
+- course **GIT** & Github (20200513-183237) 
+- METHODOLOGIES **AGILE** (20200612-193613) 
+- **SCRUM** (20200612-192255, 20200612-192639) 
 
 ### Formación on-line- UDEMY/ W3SCHOOLS/ OPENWEBINARS : 
-- full course of React (React core, React Router V5, intro to Testing with Unit tests, Redux, JSX, SASS ), 
+- full course of **React** (React core, React Router V5, intro to Testing with Unit tests, Redux, JSX, SASS ), 
 - good practice of Angular course
-- course of Bootstrap
-- course of jQuery
+- course of **Bootstrap**
+- course of **jQuery**
 
 ## `Web Design Training`
 ### Cybernarium of Barcelona Active : 
