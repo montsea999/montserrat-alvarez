@@ -4,7 +4,7 @@
 
 ![gif avatar saludando](https://github.com/montsea999/inspirations/blob/master/assets/gifavatar.gif) 
 
-### After starting to study geological engineering, validate the subjects passed and transfer my expedient and continue my studies in Geology, and end up working in in the banking sector for fourteen years, I decided in 2019 to train more seriously in Web Development, because I am passionate about ❤️ ❤️ , and I'm excited about the idea of earning a living working on what I'm passionate about, if possible. 🍀🤞🙂 
+### After starting to study geological engineering, validate the subjects passed and transfer my expedient and continue my studies in Geology, and end up working in in the banking sector for fourteen years, I decided in 2019 to train more seriously in Web Development, because I am passionate about ❤️❤️ , and I'm excited about the idea of earning a living working on what I'm passionate about, if possible. 🍀🤞🙂 
 
 
 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 
@@ -19,7 +19,7 @@ I am currently in an ERTE situation, and I continue training in both front end d
 ![gif dónde me he metido](https://github.com/montsea999/inspirations/blob/master/assets/gifAvatarYes.gif) 
 
 
-😂  😂 😂 😂  😂 😂 😂  😂 😂 😂  😂 😂 😂😂😂
+😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
 
 
 ### but it lasts a second ... and immediately I start to think about the next thing that I am going to see...... Right now, my training in the sector is as follows:
@@ -30,7 +30,7 @@ I am currently in an ERTE situation, and I continue training in both front end d
 I completed and passed the three elimination phases, of the program that started with 1000 women from all over Spain, and that finally ended with 40 of us, its third and last elimination phase:
 - Web development (HTML, CSS, Javascript) - Phase 1
 - Front-end development (HTML5, CSS3, Javascript ES6) - Phase 2
-- Full Stack development, surpassed by 40 women (Angular8, node.js, API Html5, APIRest with Express, mongoDB, TypeScript, Json, XML)- Phase 3
+- Full Stack development, surpassed by 40 women (**Angular8**, node.js, API Html5, APIRest with Express, mongoDB, TypeScript, Json, XML)- Phase 3
 - The 4ª phase I finally didn´t carry out- (I gave up doing the fourth phase (Artificial Intelligence) due to the impossibility of remote option, despite the fact that we, the 40 finalists, were from multiple points in Spain).
 
 ### Polytechnic University of Madrid- Samsung : 
@@ -61,10 +61,10 @@ WordPress (Essencial: 20200513-183208, 20200612-190756, gestión advanced: 20200
 I am passionate about sports and nature, and if the two things can be together, better: running, skating, climbing, surfing, practicing yoga and anything else that may be a challenge for me (I even was a volunteer in a rescue exercise at sea, held by a cable from a helicopter)... And of course, train in different technologies has also become a hobby, because I enjoy learning and I am always looking for new challenges.
 
 
-###  🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 
+🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 
 
 
-### `Do you want us to collaborate on a project or can I help you with a challenge?? Give me a touch!` 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+### Do you want us to collaborate on a project or can I help you with a challenge?? Give me a touch!🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 - In mail: **montsea999@gmail.com**
 - On github: (https://github.com/montsea999)
