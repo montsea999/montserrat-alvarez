@@ -58,10 +58,10 @@ WordPress ( Essential: 20200513-183208, 20200612-190756, advanced management: 20
 I am passionate about sports and nature, and if the two things can be together, better: running, skating, climbing, surfing, practicing yoga and anything else that may be a challenge for me (I even was a volunteer in a rescue exercise at sea, held by a cable from a helicopter)... And of course, train in different technologies has also become a hobby, because I enjoy learning and I am always looking for new challenges.
 
 
-🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 
+🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
 
 
-### Do you want us to collaborate on a project or can I help you with a challenge?? Give me a touch!🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+### Do you want us to collaborate on a project or can I help you with a challenge?? Give me a touch!🚀🚀🚀🚀🚀🚀🚀🚀
 
 - In mail: **montsea999@gmail.com**
 - On github: (https://github.com/montsea999)
