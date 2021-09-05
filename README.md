@@ -23,6 +23,12 @@
 
 ## `Web Development training`📚
 
+### cursando último curso de DAW (Técnico Superior en DESARROLLO DE APLICACIONES WEB): 
+-Sistemas informáticos, Entornos de Desarrollo
+-Programación en C# y Java
+-Lenguajes de marcas y sistemas de gestión de la información (HTML, XHTML, XML, CSS, RSS, XQuery, XSL-FO, XSLT)
+-Bases de Datos (SGBD MySql y ORACLE)
+
 ### Samsung Developers Spain 2019 : 
 I completed and passed the three elimination phases, of the program that started with 1000 women from all over Spain, and that finally ended with 40 of us, its third and last elimination phase:
 - Web development (HTML, CSS, Javascript) - Phase 1
@@ -49,6 +55,7 @@ I completed and passed the three elimination phases, of the program that started
 ## `Web Design Training`
 ### Cybernarium of Barcelona Active : 
 WordPress ( Essential: 20200513-183208, 20200612-190756, advanced management: 20200612-191956, installation: 20200612-193030, security: 20200612-193337, 20200612-193449, Woocommerce: 20200612-192813, 20200612-192914), SEO audit (20200612-193143, 20200612-193234), Web layout (20200513-183259), Advanced elements of web design (20200513-183332), Static site generators (20200513-183402), Introduction to Google Analytics (20200612-191647), tools of remote work (Teams y Slack).
+Podéis ver una web creada por mí aquí https://gameshotreviews.com
 
 ## `Languages `🎤
 - Catalán: High (level C certification).
