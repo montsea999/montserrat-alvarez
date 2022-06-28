@@ -9,7 +9,7 @@
 ## `Web Development training`📚
 
 ### Higher Technician in DEVELOPMENT OF WEB APPLICATIONS (DAW): 
-- Programming in markup languages ​​ HTML, XHTML, XML, CSS.
+- Programming in markup languages ​​ HTML, XHTML, XML, CSS and Markdown.
 - Programming in the languages C#, Java, JavaScript y JQuery, PL/SQL(Oracle), mySql.
 - Back End: coding of dynamic applications using the PHP language for connection to the model database, and also for the different CRUD functionalities that the application may require.
 - Front End: Web layout using the HTML markup language, both for the implementation of the VIEWS structure and the creation of different DOM elements, such as forms and tables. The validation of form fields and authentications, and also the different utilities that can improve the user experience and add dynamism to the application, through JavaScript language. And through CSS3 (Cascading Style Sheets), to style the different elements of the DOM and to obtain a responsive design based on mobile-first design to improve the user experience.
