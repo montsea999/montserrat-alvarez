@@ -20,30 +20,30 @@
 - Application Deployment and Testing: local development, with the free software package XAMPP (Apache, MariaDB/MySQL, PHP, Perl). Web and file transfer servers and web application servers too.
 
 ### Samsung Developers Spain 2019 : 
-I participated in the samsung 2019 developer project, that started with 1000 women and ended with 40 of us
+I participated in the samsung 2019 developer project, that started with 1000 women and ended with 40 of us.
 - **Web development** (HTML, CSS, Javascript) - Phase 1
 - **Front-end** development (HTML5, CSS3, Javascript ES6) - Phase 2
 - **Full Stack** development (**Angular8**, **Node.js**, **API Html5**, **APIRest with Express**, **mongoDB**, **TypeScript**, Json, XML)- Phase 3
 
 ### Polytechnic University of Madrid- Samsung : 
-- course **mySQL** (2020/S01/3753)
-- course **Full Stack** development (2020/S03/3828) - Angular8, Node.js, **JavaScript ES6**
+- course **mySQL** (2020/S01/3753).
+- course **Full Stack** development (2020/S03/3828) - Angular8, Node.js, **JavaScript ES6**.
 
 ### Barcelona Active : 
-- course **PHP** (20200513-183035) 
-- course **GIT** & Github (20200513-183237) 
-- METHODOLOGIES **AGILE** (20200612-193613) 
-- **SCRUM** (20200612-192255, 20200612-192639) 
+- course **PHP** (20200513-183035). 
+- course **GIT** & Github (20200513-183237). 
+- METHODOLOGIES **AGILE** (20200612-193613). 
+- **SCRUM** (20200612-192255, 20200612-192639). 
 
 ### Online training - UDEMY/ W3SCHOOLS/ OPENWEBINARS : 
-- good practice of Angular course
+- good practice of Angular course.
 
 ## `Web Design Training`
 ### Cybernarium of Barcelona Active : 
-**WordPress** ( Essential: 20200513-183208, 20200612-190756, advanced management: 20200612-191956, installation: 20200612-193030, security: 20200612-193337, 20200612-193449, Woocommerce: 20200612-192813, 20200612-192914) 
-**SEO audit** (20200612-193143, 20200612-193234), 
-**Web layout** (20200513-183259), Advanced elements of web design (20200513-183332), Static site generators (20200513-183402), 
-**Introduction to Google Analytics** (20200612-191647)
+**WordPress** ( Essential: 20200513-183208, 20200612-190756, advanced management: 20200612-191956, installation: 20200612-193030, security: 20200612-193337, 20200612-193449, Woocommerce: 20200612-192813, 20200612-192914). 
+**SEO audit** (20200612-193143, 20200612-193234). 
+**Web layout** (20200513-183259), Advanced elements of web design (20200513-183332), Static site generators (20200513-183402). 
+**Introduction to Google Analytics** (20200612-191647).
 
 You can see a website created and deployed by me here: **https://gameshotreviews.com**
 
