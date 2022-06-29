@@ -17,7 +17,7 @@
 - Relational databases: Creation BBDDR, using the open source relational database management system (RDBMS) mySql and using the SQL structured query language, both to work with the data and with the relationships between them, as well as to update, retrieve and delete data stored in it, and using the MySQL WorkBench and phpMyAdmin tools both for the design and modeling of the database of data, such as for the realization of the Entity-Relationship diagrams and transition to the Relational model. SQL language (DML and DDL). 
 - Object-relational databases: SQL language(DCL and procedural extension PL/SQL). 
 - Computer Systems: Installation, configuration and operation of the computer system. Management of information and resources in a network. Implementation of specific software.
-- Application Deployment and Testing: local development, with the free software package XAMPP (Apache, MariaDB/MySQL, PHP, Perl). Web and file transfer servers and web application servers.
+- Application Deployment and Testing: local development, with the free software package XAMPP (Apache, MariaDB/MySQL, PHP, Perl). Web and file transfer servers and web application servers too.
 
 ### Samsung Developers Spain 2019 : 
 I participated in the samsung 2019 developer project, that started with 1000 women and ended with 40 of us
