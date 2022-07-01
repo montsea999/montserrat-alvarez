@@ -1,6 +1,6 @@
 # Montserrat Álvarez-montsea999
 
-### 👋 Hi, this is Montserrat Álvarez from Barcelona. 
+### 👋 Hi, this is Montserrat Álvarez from Barcelona, Spain. 
 ![gif dónde me he metido](https://github.com/montsea999/inspirations/blob/master/assets/gifAvatarYes.gif) 
 ### After starting to study geological engineering, transfer my expedient and continue my studies in Geology, and end up working in the banking and advisory sector for fourteen years... I decided in 2019 to train more seriously in Web Development, because I am passionate about it..
 
