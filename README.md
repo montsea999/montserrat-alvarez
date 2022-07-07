@@ -9,7 +9,7 @@
 ## `Web Development training`📚
 
 ### Higher Technician degree in WEB APPLICATION DEVELOPMENT (DAW) in ILERNA 2020-2022: 
-- Front End: Web layout using the HTML markup language, both for the implementation of the VIEWS structure and the creation of different DOM elements, such as forms and tables. 
+- Front End: Web layout using the HTML markup language, for the implementation of the VIEWS structure and the creation of different DOM elements, such as forms and tables. 
 The validation of form fields and authentications, and also the different utilities that can improve the user experience and add dynamism to the application, through JavaScript language. And through CSS3 (Cascading Style Sheets), to style the different elements of the DOM and to obtain a responsive design based on mobile-first design to improve the user experience. Programming in markup languages ​​ HTML, XHTML, XML, CSS and Markdown. Programming in languages JavaScript y JQuery.
 - Back End: Coding of dynamic applications using the PHP language for connection to the model database, and also for the different functionalities that the application may require, programming in the back end languages C#, Java, PL/SQL(Oracle), mySql.
 - Development Environments: Software development (system analysis phase, through static diagrams (class diagram), and dynamic (use case diagram); application design phase (sketches, prototypes and navigation map); coding phase (Visual Studio Code, Visual Studio, Eclipse, MySQL Workbench, Oracle and sqldeveloper, Notepad++); testing phase (black box according to functional requirements, white box, etc.)).
