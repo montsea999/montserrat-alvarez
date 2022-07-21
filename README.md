@@ -18,7 +18,7 @@ The validation of form fields and authentications, and also the different utilit
 - **Object-relational databases**: SQL language(DCL and procedural extension PL/SQL). 
 - Computer Systems: Installation, configuration and operation of the computer system. Management of information and resources in a network. Implementation of specific software.
 - Application Deployment and Testing: local development, with the free software package XAMPP (Apache, MariaDB/MySQL, PHP, Perl). Deploying Apps on the Apps server. 
-- Web architecture: installation and basic configuration of web servers and application servers in linux and windows. HTTP and HTTPS protocols.
+- **Web architecture**: installation and basic configuration of web servers and application servers in linux and windows. HTTP and HTTPS protocols.
 - **Git & github**.
 ### Samsung Developers Spain 2019 : 
 I participated in the samsung 2019 developer project, that started with 1000 women and ended with 40 of us.
