@@ -21,7 +21,7 @@ The validation of form fields and authentications, and also the different utilit
 - **Web architecture**: installation and basic configuration of web servers and application servers in linux and windows. HTTP and HTTPS protocols.
 - **Git & github**.
 ### Samsung Developers Spain 2019 : 
-I participated in the Samsung 2019 developer project, that started with 1000 women and ended with 40 of us.
+I participated in the Samsung 2019 developer project:
 - **Web development** (HTML, CSS, Javascript) - Phase 1
 - **Front-end** development (HTML5, CSS3, Javascript ES6) - Phase 2
 - **Full Stack** development (**Angular8**, **Node.js**, **API Html5**, **APIRest with Express**, **mongoDB**, **TypeScript**, Json, XML)- Phase 3
