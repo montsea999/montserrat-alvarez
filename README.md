@@ -31,7 +31,6 @@ I participated in the Samsung 2019 developer project:
 - course **Full Stack** development (2020/S03/3828) - Angular8, Node.js, **JavaScript ES6**.
 
 ### Barcelona Active : 
-- course **PHP** (20200513-183035). 
 - course **GIT** & Github (20200513-183237). 
 - METHODOLOGIES **AGILE** (20200612-193613). 
 - **SCRUM** (20200612-192255, 20200612-192639). 
