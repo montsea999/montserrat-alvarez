@@ -45,7 +45,7 @@ I participated in the Samsung 2019 developer project:
 **Web layout** (20200513-183259), Advanced elements of web design (20200513-183332), Static site generators (20200513-183402). 
 **Introduction to Google Analytics** (20200612-191647).
 
-You can see a website created and deployed by me here: **https://gameshotreviews.com**
+You can see a website developed and deployed by me here: **https://gameshotreviews.com**
 
 ## `Languages `🎤
 - Catalán: High (level C certification).
