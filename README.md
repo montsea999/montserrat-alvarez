@@ -35,9 +35,6 @@ I participated in the Samsung 2019 developer project:
 - METHODOLOGIES **AGILE** (20200612-193613). 
 - **SCRUM** (20200612-192255, 20200612-192639). 
 
-### Online training - UDEMY/ W3SCHOOLS/ OPENWEBINARS : 
-- good practice of Angular course.
-
 ## `Web Design Training`
 ### Cybernarium of Barcelona Active : 
 **WordPress** ( Essential: 20200513-183208, 20200612-190756, advanced management: 20200612-191956, installation: 20200612-193030, security: 20200612-193337, 20200612-193449, Woocommerce: 20200612-192813, 20200612-192914). 
