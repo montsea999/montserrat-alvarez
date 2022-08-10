@@ -54,7 +54,8 @@ I am passionate about sports and nature, and else that may be a challenge for me
 ### Do you want us to collaborate on a project or can I help you with a challenge?? Give me a touch!🚀
 
 - by email: **montsea999@gmail.com**
-- On github: **https://github.com/montsea999**
+- At github: **https://github.com/montsea999**
+
 
 
 
