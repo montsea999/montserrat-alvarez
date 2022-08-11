@@ -23,7 +23,7 @@ The validation of form fields and authentications, and also the different utilit
 ### Samsung Developers Spain 2019 : 
 I participated in the Samsung 2019 developer project:
 - **Web development** (HTML, CSS, Javascript).
-- **Front-end** development (HTML5, CSS3, Javascript ES6).
+- **Front-end** (HTML5, CSS3, Javascript ES6).
 - **Full Stack** development with **Angular8**, **Node.js**, **API Html5**, **APIRest with Express**, **mongoDB**, **TypeScript**, Json, XML.
 
 ### Polytechnic University of Madrid- Samsung : 
